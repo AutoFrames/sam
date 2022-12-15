@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Entered into Frame]]>
+    </line>
+    <line>
+      <![CDATA[New  Emp added]]>
+    </line>
+    <line>
+      <![CDATA[Exit into frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Entered into Frame]]>
+    </line>
+    <line>
+      <![CDATA[New  Emp added]]>
+    </line>
+    <line>
+      <![CDATA[Edit Employee]]>
+    </line>
+    <line>
+      <![CDATA[Exit into frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Entered into Frame]]>
+    </line>
+    <line>
+      <![CDATA[Delete Employee]]>
+    </line>
+    <line>
+      <![CDATA[Exit into frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-14T12:52:36Z" name="Suite1" finished-at="2022-12-14T12:55:15Z" duration-ms="158848">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T12:52:36Z" name="Nopackage" finished-at="2022-12-14T12:55:15Z" duration-ms="158848">
+      <class name="com.hrms.testscripts.TC_003">
+        <test-method signature="tc_003()[pri:0, instance:com.hrms.testscripts.TC_003@2fd1433e]" started-at="2022-12-14T18:24:36Z" name="tc_003" finished-at="2022-12-14T18:25:01Z" duration-ms="24843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Entered into Frame]]>
+            </line>
+            <line>
+              <![CDATA[New  Emp added]]>
+            </line>
+            <line>
+              <![CDATA[Edit Employee]]>
+            </line>
+            <line>
+              <![CDATA[Exit into frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_003 -->
+      </class> <!-- com.hrms.testscripts.TC_003 -->
+      <class name="com.hrms.testscripts.TC_004">
+        <test-method signature="tc_004()[pri:0, instance:com.hrms.testscripts.TC_004@101952da]" started-at="2022-12-14T18:25:01Z" name="tc_004" finished-at="2022-12-14T18:25:15Z" duration-ms="14043" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Entered into Frame]]>
+            </line>
+            <line>
+              <![CDATA[Delete Employee]]>
+            </line>
+            <line>
+              <![CDATA[Exit into frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_004 -->
+      </class> <!-- com.hrms.testscripts.TC_004 -->
+      <class name="com.hrms.testscripts.TC_001">
+        <test-method signature="m()[pri:0, instance:com.hrms.testscripts.TC_001@6babf3bf]" started-at="2022-12-14T18:22:36Z" name="m" finished-at="2022-12-14T18:22:44Z" duration-ms="7785" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- com.hrms.testscripts.TC_001 -->
+      <class name="com.hrms.testscripts.TC_002">
+        <test-method signature="m1()[pri:0, instance:com.hrms.testscripts.TC_002@3059cbc]" started-at="2022-12-14T18:22:44Z" name="m1" finished-at="2022-12-14T18:24:36Z" duration-ms="112174" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Entered into Frame]]>
+            </line>
+            <line>
+              <![CDATA[New  Emp added]]>
+            </line>
+            <line>
+              <![CDATA[Exit into frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.hrms.testscripts.TC_002 -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
